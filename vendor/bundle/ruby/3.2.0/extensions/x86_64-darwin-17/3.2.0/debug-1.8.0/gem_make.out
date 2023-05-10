@@ -1,0 +1,19 @@
+current directory: /Users/evansmunatsa/sites/ruby-on-rails/Models-TDD/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+/Users/evansmunatsa/.rbenv/versions/3.2.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/evansmunatsa/sites/ruby-on-rails/Models-TDD/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230509-2769-cvsa8 sitelibdir\=./.gem.20230509-2769-cvsa8 clean
+
+current directory: /Users/evansmunatsa/sites/ruby-on-rails/Models-TDD/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230509-2769-cvsa8 sitelibdir\=./.gem.20230509-2769-cvsa8
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/evansmunatsa/sites/ruby-on-rails/Models-TDD/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230509-2769-cvsa8 sitelibdir\=./.gem.20230509-2769-cvsa8 install
+/usr/local/bin/ginstall -c -m 0755 debug.bundle ./.gem.20230509-2769-cvsa8/debug
+
+current directory: /Users/evansmunatsa/sites/ruby-on-rails/Models-TDD/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230509-2769-cvsa8 sitelibdir\=./.gem.20230509-2769-cvsa8 clean
