@@ -1,0 +1,2 @@
+class BiddingEngine < ApplicationRecord
+end
